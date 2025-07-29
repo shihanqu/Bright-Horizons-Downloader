@@ -53,7 +53,6 @@ Before you begin, ensure you have the following installed:
 
     # The first name of the dependent as it appears on the dashboard.
     # This must be an EXACT match (case-sensitive).
-    # e.g., "Iggy", not "iggy" or "Ignatius" if the site shows "Iggy".
     DEPENDENT_NAME = "DependentFirstName"
     ```
 
