@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
 1.  **Clone or Download:**
     -   Clone this repository to your local machine using git:
         ```bash
-        git clone <repository_url>
+        git clone https://github.com/shihanqu/Bright-Horizons-Downloader.git
         ```
     -   Or, download the `BHScrape.py` file directly.
 
