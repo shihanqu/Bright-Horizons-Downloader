@@ -51,9 +51,9 @@ Before you begin, ensure you have the following installed:
     # Your password
     PASSWORD = "your_password"
 
-    # The first name of the dependent as it appears on the dashboard.
+    # The full name of the dependent as it appears on the dashboard.
     # This must be an EXACT match (case-sensitive).
-    DEPENDENT_NAME = "DependentFirstName"
+    DEPENDENT_NAME = "First Last"
     ```
 
 3.  **Update `config.py`:**
